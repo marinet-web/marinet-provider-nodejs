@@ -1,0 +1,28 @@
+{
+  "name": "marinet-provider-nodejs",
+  "version": "0.0.1",
+  "description": "Provider to error log with marinet.",
+  "keywords": ["log", "logger"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/junioro/marinet-provider-nodejs.git"
+  },
+  "bugs": {
+    "url": "http://github.com/junioro/marinet-provider-nodejs.git"
+  },
+  "author": { 
+	"name": "Junior Oliveira", 
+	"email": "junolive@gmail.com", 
+	"url": "http://junioro.wordpress.com/" },
+  "licenses": [ {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT"
+  } ],
+  "main": "./lib",
+  "dependencies": {
+    "request": "2.34.0"
+  },
+  "devDependencies": { },
+  "scripts": {  },
+  "engines": { "node": ">= 0.10.15" }
+}
