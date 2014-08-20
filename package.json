@@ -1,6 +1,6 @@
 {
     "name": "marinet-provider-nodejs",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "Provider to error log with marinet.",
     "keywords": ["log", "logger"],
     "repository": {
